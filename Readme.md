@@ -24,11 +24,11 @@
 ### 1.官网购买使用套餐
 ### 2.官网获取授权码
 *注册邮箱收件
-*支付账单 ![支付账单截图](https://www.stableyield.pro/files/readme/01.jpg "支付账单截图") 
+*支付账单 ![支付账单截图](https://www.stableyield.pro/files/readme/02.jpg "支付账单截图") 
 
 ### 3. 下载软件
 *【策略商城】=》【商品详情页】=》【立即下载按钮】=》【GitHub下载】
-![支付账单截图](https://www.stableyield.pro/files/readme/02.jpg "支付账单截图") 
+![支付账单截图](https://www.stableyield.pro/files/readme/01.jpg "支付账单截图") 
 [下载地址](https://github.com/StableYield2025/poly-desktop/releases "Poly") 
 
 
